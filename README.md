@@ -1,1 +1,1 @@
-# nlp-gepolotical-usd
+# NLP geopolitical-news-usd-prediction
